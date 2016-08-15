@@ -1,4 +1,9 @@
-/* Create a `myName` variable and assign it a String value */
+var 'myName' = "Luc";
+var person = {
+ name = Luc
+ age = 11
+};
+
 
 /* Create a `person` variable, asign an object and give it 2 properties,
  * `name`, assign it the same name as before,
