@@ -1,4 +1,4 @@
-var 'myName' = "Luc";
+var myName = "Luc";
 var person = {
  name = Luc
  age = 11
