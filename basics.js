@@ -4,6 +4,22 @@ var person = {
  age = 11
 };
 
+var canDrive = age;
+
+isDrive = age.equals (16)
+
+if (isDrive ===true) {
+
+cow = true
+
+}
+
+Boolean cow = false
+
+if (age === 16){
+
+
+};
 
 /* Create a `person` variable, asign an object and give it 2 properties,
  * `name`, assign it the same name as before,
